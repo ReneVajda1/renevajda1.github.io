@@ -1,0 +1,52 @@
+#banner {
+  position: relative;
+  padding-top: 0px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+#banner h2 {
+  position: absolute;
+  top: 200px;
+  left:120px;
+  color: #2e2d29;
+  font-size: 55px;
+}
+
+#banner strong {
+  font-size: 100px ;
+}
+
+.text1{
+  font-size:25px;
+  margin-left: 700px;
+  margin-right: 820px;
+}
+
+.T1 {
+  font-size: 40px;
+  border: solid gray;
+  color: white;
+  background: #4d4f53;
+  margin-left: 660px;
+  margin-right: 660px;
+  height: 140px;
+  width: 900px;
+  padding-bottom: 60px;
+  padding-top: 5px;
+}
+
+
+.text2{
+  font-size:25px;
+  margin-left: 700px;
+  margin-right: 820px;
+}
+
+
+
+#hr1 {
+  width: 1000px;
+  height:7px;
+  background: black;
+}
